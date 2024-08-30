@@ -31,9 +31,6 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity enthusiast with a
 
 ## 📫 How to Reach Me
 - [GitHub Issues](https://github.com/fullMoonShade) - Feel free to open an issue if you have questions or want to collaborate on a project!
-- fullmoonshade07@gmail.com - Drop me an email if you have any inquiries or opportunities.
-
-
 
 ## 💡 Interests
 
