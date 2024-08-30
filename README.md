@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity enthusiast with a
 
 ## 🔍 What I Do
 
-- **Secure Code Development**: Building secure and efficient code is my forte. I enjoy working on projects that enhance system security and provide robust solutions against cyber threats.
+- **Secure Code Development**: I enjoy working on projects that enhance system security and provide robust solutions against cyber threats.
   
 - **Malware Research**: Analyzing, understanding, and developing malware to help understand how to protect against it.
 
