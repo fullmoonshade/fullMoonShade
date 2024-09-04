@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity enthusiast with a
 - **System Administration**: Deep understanding and hands-on experience with various Linux distributions and Windows environments.
 
 ## 🌱 Currently Learning
-
+- Full Stack Web Development 
 - Advanced malware analysis techniques
 - Reverse engineering 
 - Implementation of LLM's in Cybersecurity 
