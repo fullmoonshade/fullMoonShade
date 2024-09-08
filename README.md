@@ -13,15 +13,6 @@ Welcome to my GitHub portfolio! I'm a passionate cybersecurity enthusiast with a
 - **Platforms**: Kali Linux, Windows, Arch Linux, Windows Subsystem for Linux (WSL)
 - **Frameworks & Tools**: Microsoft C Runtime Library, Discord Bot Development
 
-## 🔍 What I Do
-
-- **Secure Code Development**: I enjoy working on projects that enhance system security and provide robust solutions against cyber threats.
-  
-- **Malware Research**: Analyzing, understanding, and developing malware to help understand how to protect against it.
-
-- **Bot Development**: Creating custom Discord bots for automation, community management, and entertainment.
-
-- **System Administration**: Deep understanding and hands-on experience with various Linux distributions and Windows environments.
 
 ## 🌱 Currently Learning
 - Full Stack Web Development 
