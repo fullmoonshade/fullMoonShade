@@ -1,4 +1,4 @@
-# Hoi, I'm Shei :)
+# Hoi I'm Shei :)
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-brightgreen.svg) 
 ![Linux](https://img.shields.io/badge/Linux-Mint%20%7C%20Arch%20%7C%20Kali%20%7C%20WSL-blue.svg) 
