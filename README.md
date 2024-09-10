@@ -8,7 +8,7 @@ Welcome to my dungeon, here you'll find all the weird things I experiment with a
 
 ## 🛠️ Skills 
 
-- **Programming Languages & Scripting**: Python (Expert), Node.js (Proficient), JavaScript (Intermediate), C, C++, Bash, PowerShell
+- **Programming Languages & Scripting**: Python, Node.js, JavaScript, C, C++, Bash, PowerShell
 - **Cybersecurity**: Malware Development, Pen-testing 
 - **Platforms**: Kali Linux, Windows, Arch Linux, Windows Subsystem for Linux (WSL)
 - **Misc**: Microsoft C Runtime Library, Discord Bot Development
