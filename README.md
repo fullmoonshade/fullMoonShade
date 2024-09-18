@@ -23,9 +23,17 @@ Welcome to my dungeon, here you'll find all the weird things I experiment with a
 
 - Cybersecurity
 - Open Source Contribution
-- CTF challenges 
-  
+- CTF challenges
+
+  
+## 🛡️ Security
+
+- [TryHackMe Profile](https://tryhackme.com/p/shei.bat)
+- [PicoCTF Profile](https://play.picoctf.org/users/shei_bat)
+- [HackTheBox Referral](https://referral.hackthebox.com/mz8rf9A)
+
 
 ## 🤝 Reach out to me 
 - ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
   @shei.sh
+
