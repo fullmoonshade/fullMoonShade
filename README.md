@@ -31,7 +31,7 @@ Welcome to my dungeon, here you'll find all the weird things I experiment with a
   @shei.sh
 
 
-## 🛡️ Security
+## 🛡️ Links
 
 - [TryHackMe Profile](https://tryhackme.com/p/shei.bat)
 - [PicoCTF Profile](https://play.picoctf.org/users/shei_bat)
