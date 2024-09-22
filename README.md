@@ -12,7 +12,7 @@ Welcome to my dungeon, here you'll find all the weird things I experiment with a
 - **Cybersecurity**: Malware Development, Pen-testing 
 - **Platforms**: Kali Linux, Windows, Arch Linux, Windows Subsystem for Linux (WSL)
 - **Misc**: Microsoft C Runtime Library, Discord Bot Development, LLM Localization
-- **Reverse engineering **: Ghidra, IDA Pro
+- **Reverse engineering**: Ghidra, IDA Pro
 
 ## 🌱 Learning
 - Full Stack Web Development  
