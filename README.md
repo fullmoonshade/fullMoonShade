@@ -11,19 +11,18 @@ Welcome to my dungeon, here you'll find all the weird things I experiment with a
 - **Programming Languages & Scripting**: Python, Node.js, JavaScript, C, C++, Bash, PowerShell
 - **Cybersecurity**: Malware Development, Pen-testing 
 - **Platforms**: Kali Linux, Windows, Arch Linux, Windows Subsystem for Linux (WSL)
-- **Misc**: Microsoft C Runtime Library, Discord Bot Development
-
+- **Misc**: Microsoft C Runtime Library, Discord Bot Development, LLM Localization
+- **Reverse engineering **: Ghidra, IDA Pro
 
 ## 🌱 Learning
-- Full Stack Web Development 
-- Reverse engineering 
-- Localizing LLMs 
+- Full Stack Web Development  
+
 
 ## 💡 Into
 
-- Cybersecurity
+- Cool exploits
 - Open Source Contribution
-- CTF challenges
+- CTF challenges (not the boring ones)
 
   
 ## 🤝 Reach out to me 
