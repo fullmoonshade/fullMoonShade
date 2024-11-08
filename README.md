@@ -32,5 +32,5 @@ Welcome to my GitHub. Here you'll find a list of some of the projects I've been 
 ## 🛡️ Links
 
 - [TryHackMe Profile](https://tryhackme.com/p/shei.bat)
-- [LinkedIn] (https://www.linkedin.com/in/fullmoonshade/)
+- [LinkedIn](https://www.linkedin.com/in/fullmoonshade/)
 
