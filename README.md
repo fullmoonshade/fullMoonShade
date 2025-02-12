@@ -1,12 +1,28 @@
-# Hey there
+
+# Hey there! 👋
+I'm Shei, welcome to my GitHub profile :)
 
 ## 💡 Interests
-- CTF Challenges 
-- Open source projects
-- AI 
-  
-## 🤝 Got a challenge/project for me? Reach out! 
-- ![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)
-  @shei.sh
-- [LinkedIn](https://www.linkedin.com/in/fullmoonshade/)
 
+- CTF Challenges
+- Malware
+- Open Source Projects
+- Artificial Intelligence (jailbreaking in particular) and Machine Learning
+
+## 🚀 Currently Working On
+
+- Project automation/tracking fullstacked webapp (molecule)
+
+## 🤝 Let's Connect!
+
+Got a challenge or project for me? Reach out!
+
+[![Discord](https://img.shields.io/badge/Discord-%40shei.sh-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shei.sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fullmoonshade/)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fullMoonShade&show_icons=true&theme=radical)
+
+
+<p align="center">Thanks for visiting my profile! :D Feel free to check out my repositories and don't hesitate to reach out.</p>
