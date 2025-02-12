@@ -21,4 +21,4 @@ Got a challenge or project for me? Reach out!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fullmoonshade/)
 
 
-<p align="center"> <b> <span style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> Thanks for visiting my profile! :D Feel free to check out my repositories and don't hesitate to reach out! </span> </b> </p>
+<p align="center"> <b> <span style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> Thanks for visiting my profile! :D Feel free to check out my repositories and don't hesitate to reach out. </span> </b> </p>
