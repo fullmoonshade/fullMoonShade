@@ -22,7 +22,8 @@ Got a challenge or project for me? Reach out!
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fullMoonShade&show_icons=true&theme=radical)
+![fullMoonShade](https://github-readme-stats.vercel.app/api?username=fullMoonShade&show_icons=true&theme=radical&hide=stars,issues,contribs&hide_rank=true&hide_title=true&include_all_commits=true)
 
 
-<p align="center">Thanks for visiting my profile! :D Feel free to check out my repositories and don't hesitate to reach out.</p>
+
+<p align="center"> <b> <span style="background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"> ✨ Thanks for visiting my profile! :D Feel free to check out my repositories and don't hesitate to reach out! ✨ </span> </b> </p>
