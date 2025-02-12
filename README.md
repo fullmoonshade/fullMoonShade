@@ -22,7 +22,7 @@ Got a challenge or project for me? Reach out!
 
 ## 📊 GitHub Stats
 
-![fullMoonShade](https://github-readme-stats.vercel.app/api?username=fullMoonShade&show_icons=true&theme=radical&hide=stars,issues,contribs&hide_rank=true&hide_title=true&include_all_commits=true)
+![Total commits](https://github-readme-stats.vercel.app/api?username=fullMoonShade&show_icons=true&theme=radical&hide=stars,issues,contribs&hide_rank=true&hide_title=true&include_all_commits=true)
 
 
 
