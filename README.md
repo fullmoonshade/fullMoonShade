@@ -11,7 +11,7 @@ I'm Shei, welcome to my GitHub profile :)
 
 ## 🚀 Currently Working On
 
-- Project automation/tracking fullstacked webapp (molecule)
+- Fullstacked project automation and tracking tool (molecule)
 
 ## 🤝 Let's Connect!
 
