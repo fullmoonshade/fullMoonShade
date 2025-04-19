@@ -5,9 +5,7 @@ I'm Shei, welcome to my GitHub profile :)
 ## 💡 Interests
 
 - CTF Challenges
-- Malware
-- Open Source Projects
-- Artificial Intelligence (jailbreaking in particular) and Machine Learning
+- Artificial Intelligence and Machine Learning
 
 ## 🚀 Currently Working On
 
