@@ -9,7 +9,7 @@ I'm Shei, welcome to my GitHub profile :)
 
 ## 🚀 Currently Working On
 
-- Fullstacked project automation and tracking tool (Molecule)
+- A RAG based chat bot
 
 ## 🤝 Let's Connect!
 
