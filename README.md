@@ -1,14 +1,10 @@
 # Hey there, I'm Shei
 
----
-
 ## Hobbies and interests
 
 - CTF Challenges  
 - Machine Learning  
 - Animes and shows  
-
----
 
 ## Reach out to me
 
