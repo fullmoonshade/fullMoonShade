@@ -12,8 +12,6 @@
 
 ## Reach out to me
 
-Reach out if you have a challenge for me
-
 [![Discord](https://img.shields.io/badge/Discord-%40shei.sh-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shei.sh)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fullmoonshade/)
 
